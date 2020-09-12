@@ -7,7 +7,7 @@ The Palmer Post
 This is my **first post**!
 
 
-![picture of me in florence](https://carlypCNU/github.io/carlypCNU/photos/profile.jpg) 
+![picture of me in florence](https://carlypcnu.github.io/carlypCNU/photos/profile.jpg) 
 
 My name is Carly Palmer. I am in my senior year at Christopher Newport University, a small liberal arts college in Newport News, Virginia. At my school, I am majoring in English, with a minor in Medieval and Renaissance studies. 
 
