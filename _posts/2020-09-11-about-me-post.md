@@ -4,7 +4,7 @@ The Palmer Post
 # **Hi all!** 
 
 
-This is my **first post**.
+This is my **first post**!
 
 
 ![picture of me in florence](https://github.com/carlypCNU/carlypCNU/blob/master/images/Pic%20of%20me%20in%20Florence.jpg) 
