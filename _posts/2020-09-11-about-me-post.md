@@ -7,7 +7,7 @@ This is my **first post**.
 
 # **Hi all!** 
 
-![picture of me in florence](https://github.com/carlypCNU/carlypCNU/commit/fa9093c23f16c653c5ca7971c1cd49fd8fe4bed3#diff-cc67e6c6473a33573aab07f8aa3b0b94)
+![picture of me in florence](images/Pic of me in Florence.jpg)
 
 My name is Carly Palmer. I am in my senior year at Christopher Newport University, a small liberal arts college in Newport News, Virginia. At my school, I am majoring in English, with a minor in Medieval and Renaissance studies. 
 
@@ -17,7 +17,7 @@ I was responsible for covering weddings that were submitted, which entailed writ
 
 I have always been an avid reader of books, mostly Historical Fiction, Fantasy, and Contemporary literature. I plan on getting a Master’s Degree in publishing, hopefully in the UK. This past Spring semester, I was able to study abroad in Florence, Italy, at the [Florence University of the Arts] (https://fua.it/). This had been a dream of mine because of my obsession with the Renaissance. 
 
-![sunset at Piazzale Michelangelo](https://github.com/carlypCNU/carlypCNU/commit/fa9093c23f16c653c5ca7971c1cd49fd8fe4bed3#diff-24ad99d86a1e2edfceb37e75cda142bc)
+![sunset at Piazzale Michelangelo](images/sunset.jpg)
 
 Sadly, I was sent home early from Italy due to Covid-19 hitting, but the month and a half that I got to experience gave me the travel bug. So, I plan on heading east once more. I was recently nominated to be a Study Abroad Student Ambassador, which will allow me to encourage other CNU students to take advantage of the unique opportunity to study abroad. 
 
