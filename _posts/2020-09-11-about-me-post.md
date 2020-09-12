@@ -25,4 +25,4 @@ I am from a small town, named Trappe, on the Eastern Shore of Maryland. I defini
 
 Stay tuned to see how my story unfolds!
 
-You can also follow me on Twitter [@CarlyPCNU] (https://twitter.com/CarlyPCNU)!
+You can also follow me on Twitter [@CarlyPCNU](https://twitter.com/CarlyPCNU)!
