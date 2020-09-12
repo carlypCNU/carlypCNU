@@ -11,7 +11,7 @@ This is my **first post**.
 
 . . . My name is Carly Palmer. I am in my senior year at Christopher Newport University, a small liberal arts college in Newport News, Virginia. At my school, I am majoring in English, with a minor in Medieval and Renaissance studies. 
 
-I decided to take the Digital Humanities course as my required writing-intensive this Fall semester because I have always been interested in writing on a digital platform. This past summer, I had the opportunity to intern at a local wedding planning website, that included a blog page (You can check out that blog [here] (https://myeasternshorewedding.com/category/vendor-spotlight/).
+I decided to take the Digital Humanities course as my required writing-intensive this Fall semester because I have always been interested in writing on a digital platform. This past summer, I had the opportunity to intern at a local wedding planning website, that included a blog page. You can check out that blog [here] (https://myeasternshorewedding.com/category/vendor-spotlight/).
 
 I was responsible for covering weddings that were submitted, which entailed writing a blog post, selecting images from their photoshoots to publish, creating alt-text for those images, and linking the local wedding vendors that the couple used for their event. To advertise for the blog I wrote, I also had to post on social media platforms such as Instagram, Facebook, and Pinterest. This experience helped prepare me for the DH course. 
 
