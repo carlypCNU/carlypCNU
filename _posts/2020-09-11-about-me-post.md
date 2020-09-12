@@ -24,3 +24,5 @@ Sadly, I was sent home early from Italy due to Covid-19 hitting, but the month a
 I am from a small town, named Trappe, on the Eastern Shore of Maryland. I definitely fit the stereotype of a true Marylander since I am a lover of crabs and Old Bay seasoning. I have an older sister who also attended CNU and just graduated in 2019, with her Master’s in Teaching. I also have two dogs, a golden retriever named Tucker and a shorkie named Oliver. 
 
 Stay tuned to see how my story unfolds!
+
+You can also follow me on Twitter [@CarlyPCNU] (https://twitter.com/CarlyPCNU)!
