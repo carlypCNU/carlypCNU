@@ -6,7 +6,7 @@ This is my **first post**.
 
 # **Hi all!** 
 
-![picture of me in florence](images/Pic of me in Florence.jpg) 
+![picture of me in florence](https://github.com/carlypCNU/carlypCNU/blob/master/images/Pic%20of%20me%20in%20Florence.jpg) 
 
 My name is Carly Palmer. I am in my senior year at Christopher Newport University, a small liberal arts college in Newport News, Virginia. At my school, I am majoring in English, with a minor in Medieval and Renaissance studies. 
 
@@ -14,7 +14,7 @@ I decided to take the Digital Humanities course as my required writing-intensive
 
 I was responsible for covering weddings that were submitted, which entailed writing a blog post, selecting images from their photoshoots to publish, creating alt-text for those images, and linking the local wedding vendors that the couple used for their event. To advertise for the blog I wrote, I also had to post on social media platforms such as Instagram, Facebook, and Pinterest. This experience helped prepare me for the DH course. 
 
-I have always been an avid reader of books, mostly Historical Fiction, Fantasy, and Contemporary literature. I plan on getting a Master’s Degree in publishing, hopefully in the UK. This past Spring semester, I was able to study abroad in Florence, Italy, at the [Florence University of the Arts] (https://fua.it/). This had been a dream of mine because of my obsession with the Renaissance. 
+I have always been an avid reader of books, mostly Historical Fiction, Fantasy, and Contemporary literature. I plan on getting a Master’s Degree in publishing, hopefully in the UK. This past Spring semester, I was able to study abroad in Florence, Italy, at the [Florence University of the Arts](https://fua.it/). This had been a dream of mine because of my obsession with the Renaissance. 
 
 ![sunset at Piazzale Michelangelo](images/sunset.jpg) 
 
