@@ -8,7 +8,7 @@ This is my reflection of a **TEI coding project**!
 
 **Introduction:**
 
-In this post, I will be reflecting on the process of a TEI coding project. The project’s goal is to code the selected text, Charlotte Perkins Stetson’s “The Yellow Wall-paper”, according to TEI (Text Encoding Initiative) standards, using the Oxygen XML (Extensible Markup Language) Editor application in order to create a digital edition of the short story. I was given column 1 on page 649 to markup, which proved to be easy with the help of the Oxygen application, which allows the user to see whether or not there are any issues with the code being recorded. When first being introduced to the project I was definitely intimidated by the idea of coding, but after some trial and error, and instruction from Dr. Stover, I was actually able to enjoy the tedious process. 
+In this post, I will be reflecting on the process of a TEI coding project. The project’s goal is to code the selected text, Charlotte Perkins Stetson’s “The Yellow Wall-paper”, according to TEI (Text Encoding Initiative) standards, using the Oxygen XML (Extensible Markup Language) Editor application in order to create a digital edition of the short story. I was given column 1 on page 649 to markup, which proved to be easy with the help of the Oxygen application, which allows the user to see whether or not there are any issues with the code being recorded. When first being introduced to the project I was definitely intimidated by the idea of coding since I had zero experience, but after some trial and error, and instruction from Dr. Stover, I was actually able to enjoy the tedious process. 
 
 **Reflection:** 
 
