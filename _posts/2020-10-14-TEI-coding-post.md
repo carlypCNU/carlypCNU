@@ -4,7 +4,7 @@ The Palmer Post
 # **Welcome back!** 
 
 
-This is my **reflection** of a TEI coding project!
+This is my reflection of a **TEI coding project**!
 
 **Introduction:**
 
