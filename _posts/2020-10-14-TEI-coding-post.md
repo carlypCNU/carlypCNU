@@ -24,7 +24,7 @@ Other tags had to be added into the places where the aforementioned features wer
 
 ![picture of tweet about coding](https://carlypcnu.github.io/carlypCNU/photos/tweet.png) 
 
-Overall, I was able to deftly take my transcribed passage from the original Google Doc and turn that into an encoded document. While the project seemed daunting at first, due to my lack of coding knowledge, I found myself getting absorbed into the repetitive work. This was mostly because of Oxygen’s user-friendly qualities. I definitely won't shy away from coding actvities in the future!  
+Overall, I was able to deftly take my transcribed passage from the original Google Doc and turn that into an encoded document. While the project seemed daunting at first, due to my lack of coding knowledge, I found myself getting absorbed into the repetitive work. This was mostly because of Oxygen’s user-friendly qualities. I definitely won't shy away from coding activities in the future!  
 
 
 Until next time!
