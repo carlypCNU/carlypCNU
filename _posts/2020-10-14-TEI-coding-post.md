@@ -18,6 +18,8 @@ The project began with each student being assigned a certain passage from “The
 
 After finishing annotating, I followed Dr. Stover’s instructions on how to add the text into the Oxygen application. I needed to include every word of the text within the page tags, or in a tag in general, in order for any of it to appear in the author viewing section of the application. This author element of the application was very helpful in seeing how the coded text will appear on the site. Another helpful tool is the small box in the upper right corner of the application that will remain the color green if your code is valid, and will turn red if it is invalid. 
 
+![picture of oxygen code](https://carlypcnu.github.io/carlypCNU/photos/code.png)
+
 Other tags had to be added into the places where the aforementioned features were found in the original text. Dr. Stover provided the codes needed to mark them, I just had to copy and paste them into the correct places. Another very accommodating tool that Oxygen possesses, is that it fills in the remainder of the tag that you are trying to create. Every aspect of the program is built to help those who are not very advanced when it comes to coding, making it an enjoyable process. 
 
 ![picture of tweet about coding](https://carlypcnu.github.io/carlypCNU/photos/tweet.png) 
