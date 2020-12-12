@@ -6,7 +6,7 @@ The Palmer Post
 
 Here's an update on how my grant project is coming along...
 
-Since my last update on my grant process, I have viewed other digital humanities projects that are similar to what I wish to accomplish with my own. Dr. Stover recommended that I explore the websites [Hello Ruby](https://www.helloruby.com/)! and [Secret Coders](http://www.secret-coders.com/)!. Both of these sites allow for young readers and their teachers to thoroughly examine the world of the stories that inspired the project as well as educate them with lessons on the book’s subject matter (computer science). 
+Since my last update on my grant process, I have viewed other digital humanities projects that are similar to what I wish to accomplish with my own. Dr. Stover recommended that I explore the websites [Hello Ruby](https://www.helloruby.com/) and [Secret Coders](http://www.secret-coders.com/). Both of these sites allow for young readers and their teachers to thoroughly examine the world of the stories that inspired the project as well as educate them with lessons on the book’s subject matter (computer science). 
 
 On the Hello Ruby website, the user is able to meet the characters of the book’s story by clicking a “meet the characters” link, which takes them to a fun and colorful page filled with descriptions, which is a great way to introduce new readers. The site also provides fun activities that will get children interested in programming. There is also a section made for teachers, to allow them to learn the basics of computer science. 
 
